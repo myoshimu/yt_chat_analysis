@@ -1,2 +1,2 @@
-# yt_chat_analysis
-Analyze YouTube Live Chat with Google Cloud NLP API
+# YouTube ライブチャットを Google Cloud で分析
+YouTube のライブチャットデータを YouTube Live Streaming API で収集し、Google Cloud で自然言語処理・分析するサンプルコードです。
