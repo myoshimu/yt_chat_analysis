@@ -22,7 +22,7 @@ This is a sample code which shows how to use YouTube Live Streaming API and anal
 1. Open "chat_analysis.ipynb" and following notebook will shown at the right hand side.
 ![image](https://user-images.githubusercontent.com/8294746/149869797-2569e732-8b10-49dd-9193-37e2f31fb02c.png)
 2. Notebook consists of code or markup cells. You can execute each cells by clicking the run icon or "Shift+Enter" key.
-3. Run all the cells　in order of appearance from the start.
+3. Run all the cells　in order of appearance from the start.<br>
 ![image](https://user-images.githubusercontent.com/8294746/149869958-f7a7ea33-dbce-4f30-ae36-9270806799e4.png)
 <br>If above install section failed with error, please execute `!pip install nlplot -- user` command, too.
 4. This code example includes the sample live chat data which is regarding CAPCOM's Monster Hunter.
